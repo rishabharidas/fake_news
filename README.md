@@ -5,6 +5,8 @@
 - If you want to build your model with the some changes, you can check the `Fake_News_Detection.ipynb`.
 - You can check web app is working fine. Sometimes predictions may be wrong.
 
+data set used:  https://www.kaggle.com/hassanamin/textdb3
+
 
 ## Note
 - This project is just for learning purpose, don't think, it can do work in real time, because model was trained on historic & limited data.
